@@ -14,7 +14,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" width=200/>
   </a>&nbsp;&nbsp;
   <a href="https://public.tableau.com/app/profile/halilunsal">
-    <img src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg" width=200/>        
+    <img src="https://raw.githubusercontent.com/halilunsall/halilunsall/main/img1.png" width=200/>        
   </a>&nbsp;&nbsp;
   
 </p>
