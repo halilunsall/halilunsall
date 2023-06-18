@@ -26,10 +26,10 @@
 <p align='center'>
   💻 Tech I Use<br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" width=150/>
-  <img src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1.jpg" width=150/>
-  <img src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg" width=150/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/amazon-web-services-1-logo-png-transparent.png" width=150/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.png"width=150 />
+  <img src="https://raw.githubusercontent.com/halilunsall/halilunsall/main/img4.png" width=150/>
+  <img src="https://raw.githubusercontent.com/halilunsall/halilunsall/main/img1.png" width=150/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/amazon-web-services-1-logo-png-transparent.png" width=100/>
+  <img src="https://raw.githubusercontent.com/halilunsall/halilunsall/main/img3.png"width=200 />
 </p>
 
 
