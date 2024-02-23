@@ -42,34 +42,6 @@
   📫 How to reach me: <a href='hibrahimunsall@gmail.com'>hibrahimunsall@gmail.com</a>
 </p>
 
-
-
-
-<details>
-  <summary>📃 Resume</summary>
-
-## Education
-
-- 📖 **Economics**\
-📆 Sept 2021 - Present\
-📍 **Hacettepe University** - Ankara, Turkey 
-
-- 📖 **Data Analytics**\
-📆 Sept 2022 - March 2023\
-📍 **Clarusway** - Virginia, USA 
-
-- 📖 **Data Science**\
-📆 April 2023 - July 2023\
-📍 **Clarusway** - Virginia, USA 
-
-## Experience
-
-- 👨‍💻 **Data Analyst**\
-📆 May 2022 - Present\
-📍 **Mysoly** - Nuenen, Hollanda
-  
-
-
 </details>
 
 <details>
