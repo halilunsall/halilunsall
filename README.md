@@ -46,18 +46,10 @@
 
 <details>
   <summary>📦 Projects</summary>
-  
-[Car Price Analysis](https://github.com/halilunsall/Auto-Scout) 
-
-Exploratory Data Analysis (EDA) is a method for data analysis that can be used to obtain valuable information on car costs. preparing the dataset for a suitable car price prediction using an ML model. Data analysis, data cleaning, and feature engineering.
 
 [Tableau Covid-19 Tracking Dashboard](https://public.tableau.com/app/profile/halilunsal/viz/Covid-19-Tracker_16779424166110/WithoutContainer)
 
 To track the daily global tally of Covid-19 cases and fatalities, a dashboard was created. A server connection was made using the web data connector in order to get daily data. The dashboard was created using embed code and designed to be followed live on the website (Google sites) after the data preparation and data manipulation processes.
-
-[Customer Review Sentiment Analysis (NLP)](https://github.com/halilunsall/NLP-Projects)
-
-Customer reviews of consumer goods were retrieved from shopping websites, and machine learning models were used to extract keywords and classify the reviews by sentiment and the qualities they describe. Competencies: Lexicon Normalization, Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest, and Ada Boosting.
 
 [Employee Churn Analysis Project:](https://github.com/halilunsall/Churn-Prediction)
 
