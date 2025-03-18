@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Analyst and Jr. Data Scientist from Turkey.
+  Data Scientist/AI Developer
 </p>
 
 
