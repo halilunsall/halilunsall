@@ -9,14 +9,9 @@
 
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/halilibrahimunsal/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" width=200/>
   </a>&nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/profile/halilunsal">
-    <img src="https://raw.githubusercontent.com/halilunsall/halilunsall/main/img1.png" width=200/>        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>
